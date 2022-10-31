@@ -1,0 +1,4 @@
+Email do Bip:
+email:
+login:bip_weryfikacja
+hasło:%FghJ#$Z44
